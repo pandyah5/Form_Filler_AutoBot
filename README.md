@@ -14,5 +14,10 @@ The program requires prior installation of:
 2) Python 3.0+
 3) ChromeDriver
 
+# Experimentation
+I have created a google form for experimenting this program, here's the link if you want to try out: https://docs.google.com/forms/d/e/1FAIpQLSe5-ppmNgHVrixc1nk_U1CKdkLvqtPusSckg12DzdQRCuVVmw/viewform?vc=0&c=0&w=1
+
+This form accepts multiple inputs, so you submit it as many times as you want. As the information is sent to me [the creator of the form], you might want to use fake information for privacy or well may be make your own google form. Have fun :)
+
 # Note:
 Updates on surpassing "I am not a robot" checks are on the way...
